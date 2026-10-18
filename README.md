@@ -1,12 +1,14 @@
 # 006 Hominim Wayside Recreate
 
-_One-line description to come._
+A rebuild of Hominim, an app someone else made at the September 2026 hackathon. Mike liked its build style and simplicity.
 
-> **Template, waiting for Mike's input.** There isn't enough context yet to draft this one. Fill in each section, or answer the questions in chat and Claude will draft it.
+> **Template, waiting for Mike's input.** Mike will find the link to the original app first. The sections stay as placeholders until then.
 
 ## Status
 
-Idea stage. This repo is empty.
+**Focus: parked.**
+
+Idea stage. Mike is finding the link to the original Hominim app.
 
 ## 1. Problem statement
 
